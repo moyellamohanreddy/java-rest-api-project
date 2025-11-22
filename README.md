@@ -17,4 +17,3 @@ mvn spring-boot:run
 Open Swagger:
 ```
 http://localhost:8080/swagger-ui.html
-```
